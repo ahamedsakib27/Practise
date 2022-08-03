@@ -7,13 +7,24 @@ body {
     color: orange;
 }
 
+section {
+    margin-bottom: 100px;
+}
+
+#header-section {
+    padding-left: 100px;
+}
+
 .flexible {
     display: flex;
-    padding-left: 100px;
 }
 
 h1 {
     font-size: 50px;
+}
+
+h2 {
+    font-size: 40px;
 }
 
 p {
@@ -37,4 +48,18 @@ p {
     padding: 10px 20px;
     border-radius: 5px;
     font-weight: 700;
+}
+
+#small-pic-size {
+    width: 50%;
+    display: block;
+    margin: 0 auto;
+}
+
+.about-section {
+    background-image: url(images/shapes/Frame\ 58.jpg);
+    background-image: url(images/shapes/7.png);
+    background-repeat: no-repeat;
+    padding-top: 50px;
+    padding-left: 50px;
 }
