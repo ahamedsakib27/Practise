@@ -11,7 +11,7 @@ section {
     margin-bottom: 100px;
 }
 
-#header-section {
+.header-section {
     padding-left: 100px;
 }
 
@@ -51,7 +51,7 @@ p {
 }
 
 #small-pic-size {
-    width: 50%;
+    width: 45%;
     display: block;
     margin: 0 auto;
 }
@@ -62,4 +62,26 @@ p {
     background-repeat: no-repeat;
     padding-top: 50px;
     padding-left: 50px;
+}
+
+.text-center {
+    text-align: center;
+}
+
+.one-third-width {
+    width: 25%;
+    margin: 2%;
+    padding: 30px;
+}
+
+.one-third-width img {
+
+    width: 100%;
+    display: inline-block;
+    margin: 0 auto;
+}
+
+.box-shadow {
+    box-shadow: 5px 5px 20px gray;
+    border-radius: 20px;
 }
