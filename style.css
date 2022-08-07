@@ -11,7 +11,7 @@ section {
     margin-bottom: 100px;
 }
 
-.header-section {
+#header-section {
     padding-left: 100px;
 }
 
@@ -70,8 +70,8 @@ p {
 
 .one-third-width {
     width: 25%;
-    margin: 2%;
-    padding: 30px;
+    margin: 20px 50px;
+    padding: 18px;
 }
 
 .one-third-width img {
@@ -83,5 +83,9 @@ p {
 
 .box-shadow {
     box-shadow: 5px 5px 20px gray;
-    border-radius: 20px;
+    border-radius: 15px;
+}
+
+#menu-section {
+    margin: 0 50px;
 }
