@@ -89,3 +89,17 @@ p {
 #menu-section {
     margin: 0 50px;
 }
+
+footer {
+    background-color: black;
+    padding: 20px 80px;
+}
+
+footer h3 {
+    color: gray;
+    font-size: 30px;
+}
+
+footer p {
+    color: white;
+}
